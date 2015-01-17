@@ -1,0 +1,21 @@
+{
+  "name": "PitStop[website]",
+  "version": "0.0.1",
+  "ignore": [
+    "bower_components",
+    "node_modules"
+  ],
+  "dependencies": {
+    "bourbon": "~4.1.0",
+    "firebase": "~2.0.6",
+    "angularfire": "~0.9.0",
+    "angular": "~1.3.8",
+    "animate.css": "~3.2.0",
+    "ionicons": "~2.0.0",
+    "jquery": "~2.1.3",
+    "angular-ui-router": "~0.2.13",
+    "neat": "~1.7.1",
+    "sweetalert": "~0.3.3",
+    "ngAnimate": "*"
+  }
+}
